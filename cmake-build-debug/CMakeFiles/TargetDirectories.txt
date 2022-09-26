@@ -1,0 +1,3 @@
+C:/Users/ASSAFIN/CLionProjects/Fila/cmake-build-debug/CMakeFiles/Fila.dir
+C:/Users/ASSAFIN/CLionProjects/Fila/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASSAFIN/CLionProjects/Fila/cmake-build-debug/CMakeFiles/rebuild_cache.dir
